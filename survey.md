@@ -1,5 +1,6 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color:purple
+Favorite food: sushi
+Favorite musician/band:panic at the disco 
+Favorite movie: inception
+Requested grade in the course:100
+ 
